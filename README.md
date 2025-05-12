@@ -8,7 +8,7 @@ While you are on the "Press Any Key" screen press `Ctrl + Space`
 # Installing
 1. Download code from this repository
 2. Create folder `PropnightLoginBypasser` in folder `Mods` of your UE4SS installation
-3. Unpack folder `LoginBypasser-main` from downloaded archive to newly created folder
+3. Unpack content of folder `LoginBypasser-main` from downloaded archive to newly created folder
 4. Add line `PropnightLoginBypasser : 1` to file `mods.txt` in the same folder `Mods` as in step 2
 
 # Possible issues
