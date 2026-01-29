@@ -12,4 +12,4 @@ While you are on the "Press Any Key" screen press `Ctrl + Space`
 4. Add line `PropnightLoginBypasser : 1` to file `mods.txt` in the same folder `Mods` as in step 2
 
 # Possible issues
-From time to time Unreal Engine can give you fatal error that will close game. The only solution is to restart game and try again.
+From time to time Unreal Engine can give you fatal error that will close game. Make sure Steam is launched, you have Propnight in library and game is using Propnight's App ID, then restart game and try again.
